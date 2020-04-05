@@ -1,0 +1,56 @@
+C:\Users\efrai\Desktop\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\bin\Debug\ProyectoV1.0_Archivos.exe.config
+C:\Users\efrai\Desktop\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\bin\Debug\ProyectoV1.0_Archivos.exe
+C:\Users\efrai\Desktop\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\bin\Debug\ProyectoV1.0_Archivos.pdb
+C:\Users\efrai\Desktop\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.csprojResolveAssemblyReference.cache
+C:\Users\efrai\Desktop\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1._0_Archivos.Form1.resources
+C:\Users\efrai\Desktop\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1._0_Archivos.Properties.Resources.resources
+C:\Users\efrai\Desktop\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.csproj.GenerateResource.Cache
+C:\Users\efrai\Desktop\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.exe
+C:\Users\efrai\Desktop\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.pdb
+C:\Users\efrai\Dropbox\Estructuras de Archivos\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\bin\Debug\ProyectoV1.0_Archivos.exe.config
+C:\Users\efrai\Dropbox\Estructuras de Archivos\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.exe
+C:\Users\efrai\Dropbox\Estructuras de Archivos\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.pdb
+C:\Users\efrai\Dropbox\Estructuras de Archivos\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\bin\Debug\ProyectoV1.0_Archivos.exe
+C:\Users\efrai\Dropbox\Estructuras de Archivos\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\bin\Debug\ProyectoV1.0_Archivos.pdb
+C:\Users\efrai\Dropbox\Estructuras de Archivos\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.csprojResolveAssemblyReference.cache
+C:\Users\efrai\Dropbox\Estructuras de Archivos\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1._0_Archivos.Form1.resources
+C:\Users\efrai\Dropbox\Estructuras de Archivos\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1._0_Archivos.Properties.Resources.resources
+C:\Users\efrai\Dropbox\Estructuras de Archivos\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.csproj.GenerateResource.Cache
+C:\Users\tanto\Documents\Universidad\8vo Semestre\Estructuras de Archivos\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\bin\Debug\ProyectoV1.0_Archivos.exe.config
+C:\Users\tanto\Documents\Universidad\8vo Semestre\Estructuras de Archivos\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\bin\Debug\ProyectoV1.0_Archivos.exe
+C:\Users\tanto\Documents\Universidad\8vo Semestre\Estructuras de Archivos\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\bin\Debug\ProyectoV1.0_Archivos.pdb
+C:\Users\tanto\Documents\Universidad\8vo Semestre\Estructuras de Archivos\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.csprojAssemblyReference.cache
+C:\Users\tanto\Documents\Universidad\8vo Semestre\Estructuras de Archivos\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1._0_Archivos.Form1.resources
+C:\Users\tanto\Documents\Universidad\8vo Semestre\Estructuras de Archivos\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1._0_Archivos.Properties.Resources.resources
+C:\Users\tanto\Documents\Universidad\8vo Semestre\Estructuras de Archivos\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.csproj.GenerateResource.cache
+C:\Users\tanto\Documents\Universidad\8vo Semestre\Estructuras de Archivos\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.csproj.CoreCompileInputs.cache
+C:\Users\tanto\Documents\Universidad\8vo Semestre\Estructuras de Archivos\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.exe
+C:\Users\tanto\Documents\Universidad\8vo Semestre\Estructuras de Archivos\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.pdb
+D:\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\bin\Debug\ProyectoV1.0_Archivos.exe.config
+D:\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.exe
+D:\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.pdb
+D:\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\bin\Debug\ProyectoV1.0_Archivos.exe
+D:\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\bin\Debug\ProyectoV1.0_Archivos.pdb
+D:\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.csprojResolveAssemblyReference.cache
+D:\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1._0_Archivos.Form1.resources
+D:\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1._0_Archivos.Properties.Resources.resources
+D:\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.csproj.GenerateResource.Cache
+C:\Users\Joel\Desktop\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\bin\Debug\ProyectoV1.0_Archivos.exe.config
+C:\Users\Joel\Desktop\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.exe
+C:\Users\Joel\Desktop\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.pdb
+C:\Users\Joel\Desktop\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\bin\Debug\ProyectoV1.0_Archivos.exe
+C:\Users\Joel\Desktop\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\bin\Debug\ProyectoV1.0_Archivos.pdb
+C:\Users\Joel\Desktop\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1._0_Archivos.Form1.resources
+C:\Users\Joel\Desktop\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1._0_Archivos.Properties.Resources.resources
+C:\Users\Joel\Desktop\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.csproj.GenerateResource.Cache
+C:\Users\Joel\Desktop\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.csprojAssemblyReference.cache
+C:\Users\Joel\Desktop\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.csproj.CoreCompileInputs.cache
+C:\Users\efrai\Desktop\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\bin\Debug\ProyectoV1.0_Archivos.exe.config
+C:\Users\efrai\Desktop\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.exe
+C:\Users\efrai\Desktop\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.pdb
+C:\Users\efrai\Desktop\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\bin\Debug\ProyectoV1.0_Archivos.exe
+C:\Users\efrai\Desktop\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\bin\Debug\ProyectoV1.0_Archivos.pdb
+C:\Users\efrai\Desktop\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.csprojResolveAssemblyReference.cache
+C:\Users\efrai\Desktop\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1._0_Archivos.Form1.resources
+C:\Users\efrai\Desktop\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1._0_Archivos.Properties.Resources.resources
+C:\Users\efrai\Desktop\ProyectoArchivosv1.0\ProyectoV1.0_Archivos\ProyectoV1.0_Archivos\obj\Debug\ProyectoV1.0_Archivos.csproj.GenerateResource.Cache
